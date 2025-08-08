@@ -1,2 +1,0 @@
-SELECT WarehouseID
-FROM INVENTORY;
